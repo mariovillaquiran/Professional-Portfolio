@@ -23,7 +23,7 @@ This is a portfolio page, which has links to demonstrate the course work project
 
 The following animation shows the web application's appearance and functionality:
 
-![portfolio demo](assets/images/demo.mov)
+![portfolio demo](.assets/images/demo.mov)
 
 # Lincense
 
