@@ -9,11 +9,9 @@
 
 This is a portfolio page, which has links to demonstrate the course work projects.
 
-## Accept
+## Acceptance Criteria
 
 https://user-images.githubusercontent.com/90975246/138605814-fb94369e-28b9-4c08-85a3-8ab2ed71ce06.mov
-
-Acceptance Criteria
 
 - The site will load portfolio
 - The site will have the developer's name, a recent photo, and links to sections about them, their work, and how to contact them
