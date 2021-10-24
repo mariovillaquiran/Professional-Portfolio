@@ -16,7 +16,6 @@ header {
   flex-direction: row;
   justify-content: space-between;
   flex-wrap: wrap;
-  align-items: center;
   font-size: 10px;
   font-family: Arial, Helvetica, sans-serif;
   color: black;
